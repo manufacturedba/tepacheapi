@@ -28,13 +28,13 @@
     "decamelize": "^6.0.0",
     "dotenv": "^16.3.1",
     "firebase": "^9.9.1",
-    "firebase-admin": "^11.0.0",
+    "firebase-admin": "^11.9.0",
     "hapi-pino": "^10.1.0",
     "hapi-rate-limit": "^5.0.1",
     "joi": "^17.6.0",
     "node-cache": "^5.1.2",
     "pubnub": "^7.2.1",
-    "twilio": "^3.80.1"
+    "twilio": "^4.13.0"
   },
   "devDependencies": {
     "eslint": "^8.15.0",
